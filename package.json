@@ -1,17 +1,4 @@
 {
-    "name": "netlify-quarto-blogtest1",
-    "version": "1.0.0",
-    "description": "This repo serves as an example repo to test builds and publishes to\r netlify wired up via github sync.",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/dpastoor/netlify-quarto-blogtest1.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/dpastoor/netlify-quarto-blogtest1/issues"
-    },
-    "homepage": "https://github.com/dpastoor/netlify-quarto-blogtest1#readme",
     "dependencies": {
         "@quarto/netlify-plugin-quarto": "^0.0.5"
     }
